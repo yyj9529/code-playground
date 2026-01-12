@@ -43,7 +43,7 @@ export default function HomePage() {
                 Code Playground
               </h1>
               <span className="text-sm text-gray-500 dark:text-gray-400">
-                코드 작성, 실행, 공유 플랫폼
+               딩코딩코 작성, 실행, 공유 플랫폼
               </span>
             </div>
 
